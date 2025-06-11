@@ -1414,3 +1414,267 @@ INFO - 2025-06-04 12:58:12 --> File loaded: C:\laragon\www\penjualan\application
 INFO - 2025-06-04 12:58:12 --> File loaded: C:\laragon\www\penjualan\application\views\template/main.php
 INFO - 2025-06-04 12:58:12 --> Final output sent to browser
 DEBUG - 2025-06-04 12:58:12 --> Total execution time: 0.0506
+INFO - 2025-06-04 13:17:19 --> Config Class Initialized
+INFO - 2025-06-04 13:17:19 --> Hooks Class Initialized
+DEBUG - 2025-06-04 13:17:19 --> UTF-8 Support Enabled
+INFO - 2025-06-04 13:17:19 --> Utf8 Class Initialized
+INFO - 2025-06-04 13:17:19 --> URI Class Initialized
+INFO - 2025-06-04 13:17:19 --> Router Class Initialized
+INFO - 2025-06-04 13:17:19 --> Output Class Initialized
+INFO - 2025-06-04 13:17:19 --> Security Class Initialized
+DEBUG - 2025-06-04 13:17:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-06-04 13:17:19 --> Input Class Initialized
+INFO - 2025-06-04 13:17:19 --> Language Class Initialized
+INFO - 2025-06-04 13:17:19 --> Loader Class Initialized
+INFO - 2025-06-04 13:17:19 --> Helper loaded: url_helper
+INFO - 2025-06-04 13:17:19 --> Helper loaded: pos_helper
+INFO - 2025-06-04 13:17:19 --> Database Driver Class Initialized
+DEBUG - 2025-06-04 13:17:19 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2025-06-04 13:17:19 --> Session: Class initialized using 'files' driver.
+INFO - 2025-06-04 13:17:19 --> Helper loaded: form_helper
+INFO - 2025-06-04 13:17:19 --> Form Validation Class Initialized
+INFO - 2025-06-04 13:17:19 --> Controller Class Initialized
+DEBUG - 2025-06-04 13:17:19 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2025-06-04 13:17:19 --> File loaded: C:\laragon\www\penjualan\application\views\login/error404.php
+INFO - 2025-06-04 13:17:19 --> Final output sent to browser
+DEBUG - 2025-06-04 13:17:19 --> Total execution time: 0.1460
+INFO - 2025-06-04 13:17:19 --> Config Class Initialized
+INFO - 2025-06-04 13:17:19 --> Hooks Class Initialized
+DEBUG - 2025-06-04 13:17:19 --> UTF-8 Support Enabled
+INFO - 2025-06-04 13:17:19 --> Utf8 Class Initialized
+INFO - 2025-06-04 13:17:19 --> URI Class Initialized
+INFO - 2025-06-04 13:17:19 --> Router Class Initialized
+INFO - 2025-06-04 13:17:19 --> Output Class Initialized
+INFO - 2025-06-04 13:17:19 --> Security Class Initialized
+DEBUG - 2025-06-04 13:17:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-06-04 13:17:19 --> Input Class Initialized
+INFO - 2025-06-04 13:17:19 --> Language Class Initialized
+ERROR - 2025-06-04 13:17:19 --> 404 Page Not Found: Assets/assets
+INFO - 2025-06-04 13:17:28 --> Config Class Initialized
+INFO - 2025-06-04 13:17:28 --> Hooks Class Initialized
+DEBUG - 2025-06-04 13:17:28 --> UTF-8 Support Enabled
+INFO - 2025-06-04 13:17:28 --> Utf8 Class Initialized
+INFO - 2025-06-04 13:17:28 --> URI Class Initialized
+INFO - 2025-06-04 13:17:28 --> Router Class Initialized
+INFO - 2025-06-04 13:17:28 --> Output Class Initialized
+INFO - 2025-06-04 13:17:28 --> Security Class Initialized
+DEBUG - 2025-06-04 13:17:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-06-04 13:17:28 --> Input Class Initialized
+INFO - 2025-06-04 13:17:28 --> Language Class Initialized
+ERROR - 2025-06-04 13:17:28 --> 404 Page Not Found: Login/index.html
+INFO - 2025-06-04 13:17:30 --> Config Class Initialized
+INFO - 2025-06-04 13:17:30 --> Hooks Class Initialized
+DEBUG - 2025-06-04 13:17:30 --> UTF-8 Support Enabled
+INFO - 2025-06-04 13:17:30 --> Utf8 Class Initialized
+INFO - 2025-06-04 13:17:30 --> URI Class Initialized
+INFO - 2025-06-04 13:17:30 --> Router Class Initialized
+INFO - 2025-06-04 13:17:30 --> Output Class Initialized
+INFO - 2025-06-04 13:17:30 --> Security Class Initialized
+DEBUG - 2025-06-04 13:17:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-06-04 13:17:30 --> Input Class Initialized
+INFO - 2025-06-04 13:17:30 --> Language Class Initialized
+INFO - 2025-06-04 13:17:30 --> Loader Class Initialized
+INFO - 2025-06-04 13:17:30 --> Helper loaded: url_helper
+INFO - 2025-06-04 13:17:30 --> Helper loaded: pos_helper
+INFO - 2025-06-04 13:17:30 --> Database Driver Class Initialized
+DEBUG - 2025-06-04 13:17:30 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2025-06-04 13:17:30 --> Session: Class initialized using 'files' driver.
+INFO - 2025-06-04 13:17:30 --> Helper loaded: form_helper
+INFO - 2025-06-04 13:17:30 --> Form Validation Class Initialized
+INFO - 2025-06-04 13:17:30 --> Controller Class Initialized
+DEBUG - 2025-06-04 13:17:30 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2025-06-04 13:17:30 --> File loaded: C:\laragon\www\penjualan\application\views\login/error404.php
+INFO - 2025-06-04 13:17:30 --> Final output sent to browser
+DEBUG - 2025-06-04 13:17:30 --> Total execution time: 0.0442
+INFO - 2025-06-04 13:17:32 --> Config Class Initialized
+INFO - 2025-06-04 13:17:32 --> Hooks Class Initialized
+DEBUG - 2025-06-04 13:17:32 --> UTF-8 Support Enabled
+INFO - 2025-06-04 13:17:32 --> Utf8 Class Initialized
+INFO - 2025-06-04 13:17:32 --> URI Class Initialized
+INFO - 2025-06-04 13:17:32 --> Router Class Initialized
+INFO - 2025-06-04 13:17:32 --> Output Class Initialized
+INFO - 2025-06-04 13:17:32 --> Security Class Initialized
+DEBUG - 2025-06-04 13:17:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-06-04 13:17:32 --> Input Class Initialized
+INFO - 2025-06-04 13:17:32 --> Language Class Initialized
+INFO - 2025-06-04 13:17:32 --> Loader Class Initialized
+INFO - 2025-06-04 13:17:32 --> Helper loaded: url_helper
+INFO - 2025-06-04 13:17:32 --> Helper loaded: pos_helper
+INFO - 2025-06-04 13:17:32 --> Database Driver Class Initialized
+DEBUG - 2025-06-04 13:17:32 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2025-06-04 13:17:32 --> Session: Class initialized using 'files' driver.
+INFO - 2025-06-04 13:17:32 --> Helper loaded: form_helper
+INFO - 2025-06-04 13:17:32 --> Form Validation Class Initialized
+INFO - 2025-06-04 13:17:32 --> Controller Class Initialized
+INFO - 2025-06-04 13:17:32 --> Model "User_model" initialized
+DEBUG - 2025-06-04 13:17:32 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2025-06-04 13:17:32 --> File loaded: C:\laragon\www\penjualan\application\views\template/header.php
+INFO - 2025-06-04 13:17:32 --> File loaded: C:\laragon\www\penjualan\application\views\template/navbar.php
+INFO - 2025-06-04 13:17:32 --> File loaded: C:\laragon\www\penjualan\application\views\template/sidebar.php
+INFO - 2025-06-04 13:17:32 --> File loaded: C:\laragon\www\penjualan\application\views\user/index.php
+INFO - 2025-06-04 13:17:32 --> File loaded: C:\laragon\www\penjualan\application\views\template/footer.php
+INFO - 2025-06-04 13:17:32 --> File loaded: C:\laragon\www\penjualan\application\views\template/main.php
+INFO - 2025-06-04 13:17:32 --> Final output sent to browser
+DEBUG - 2025-06-04 13:17:32 --> Total execution time: 0.0452
+INFO - 2025-06-04 13:18:47 --> Config Class Initialized
+INFO - 2025-06-04 13:18:47 --> Hooks Class Initialized
+DEBUG - 2025-06-04 13:18:47 --> UTF-8 Support Enabled
+INFO - 2025-06-04 13:18:47 --> Utf8 Class Initialized
+INFO - 2025-06-04 13:18:47 --> URI Class Initialized
+INFO - 2025-06-04 13:18:47 --> Router Class Initialized
+INFO - 2025-06-04 13:18:47 --> Output Class Initialized
+INFO - 2025-06-04 13:18:47 --> Security Class Initialized
+DEBUG - 2025-06-04 13:18:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-06-04 13:18:47 --> Input Class Initialized
+INFO - 2025-06-04 13:18:47 --> Language Class Initialized
+INFO - 2025-06-04 13:18:47 --> Loader Class Initialized
+INFO - 2025-06-04 13:18:47 --> Helper loaded: url_helper
+INFO - 2025-06-04 13:18:47 --> Helper loaded: pos_helper
+INFO - 2025-06-04 13:18:47 --> Database Driver Class Initialized
+DEBUG - 2025-06-04 13:18:47 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2025-06-04 13:18:47 --> Session: Class initialized using 'files' driver.
+INFO - 2025-06-04 13:18:47 --> Helper loaded: form_helper
+INFO - 2025-06-04 13:18:47 --> Form Validation Class Initialized
+INFO - 2025-06-04 13:18:47 --> Controller Class Initialized
+DEBUG - 2025-06-04 13:18:47 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2025-06-04 13:18:47 --> File loaded: C:\laragon\www\penjualan\application\views\login/error404.php
+INFO - 2025-06-04 13:18:47 --> Final output sent to browser
+DEBUG - 2025-06-04 13:18:47 --> Total execution time: 0.0620
+INFO - 2025-06-04 13:18:47 --> Config Class Initialized
+INFO - 2025-06-04 13:18:47 --> Hooks Class Initialized
+DEBUG - 2025-06-04 13:18:47 --> UTF-8 Support Enabled
+INFO - 2025-06-04 13:18:47 --> Utf8 Class Initialized
+INFO - 2025-06-04 13:18:47 --> URI Class Initialized
+INFO - 2025-06-04 13:18:47 --> Router Class Initialized
+INFO - 2025-06-04 13:18:47 --> Output Class Initialized
+INFO - 2025-06-04 13:18:47 --> Security Class Initialized
+DEBUG - 2025-06-04 13:18:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-06-04 13:18:47 --> Input Class Initialized
+INFO - 2025-06-04 13:18:47 --> Language Class Initialized
+ERROR - 2025-06-04 13:18:47 --> 404 Page Not Found: Assets/assets
+INFO - 2025-06-04 13:19:52 --> Config Class Initialized
+INFO - 2025-06-04 13:19:52 --> Hooks Class Initialized
+DEBUG - 2025-06-04 13:19:52 --> UTF-8 Support Enabled
+INFO - 2025-06-04 13:19:52 --> Utf8 Class Initialized
+INFO - 2025-06-04 13:19:52 --> URI Class Initialized
+INFO - 2025-06-04 13:19:52 --> Router Class Initialized
+INFO - 2025-06-04 13:19:52 --> Output Class Initialized
+INFO - 2025-06-04 13:19:52 --> Security Class Initialized
+DEBUG - 2025-06-04 13:19:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-06-04 13:19:52 --> Input Class Initialized
+INFO - 2025-06-04 13:19:52 --> Language Class Initialized
+INFO - 2025-06-04 13:19:52 --> Loader Class Initialized
+INFO - 2025-06-04 13:19:52 --> Helper loaded: url_helper
+INFO - 2025-06-04 13:19:52 --> Helper loaded: pos_helper
+INFO - 2025-06-04 13:19:52 --> Database Driver Class Initialized
+DEBUG - 2025-06-04 13:19:52 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2025-06-04 13:19:52 --> Session: Class initialized using 'files' driver.
+INFO - 2025-06-04 13:19:52 --> Helper loaded: form_helper
+INFO - 2025-06-04 13:19:52 --> Form Validation Class Initialized
+INFO - 2025-06-04 13:19:52 --> Controller Class Initialized
+DEBUG - 2025-06-04 13:19:52 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2025-06-04 13:19:52 --> File loaded: C:\laragon\www\penjualan\application\views\login/error404.php
+INFO - 2025-06-04 13:19:52 --> Final output sent to browser
+DEBUG - 2025-06-04 13:19:52 --> Total execution time: 0.0799
+INFO - 2025-06-04 13:24:02 --> Config Class Initialized
+INFO - 2025-06-04 13:24:02 --> Hooks Class Initialized
+DEBUG - 2025-06-04 13:24:02 --> UTF-8 Support Enabled
+INFO - 2025-06-04 13:24:02 --> Utf8 Class Initialized
+INFO - 2025-06-04 13:24:02 --> URI Class Initialized
+INFO - 2025-06-04 13:24:02 --> Router Class Initialized
+INFO - 2025-06-04 13:24:02 --> Output Class Initialized
+INFO - 2025-06-04 13:24:02 --> Security Class Initialized
+DEBUG - 2025-06-04 13:24:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-06-04 13:24:02 --> Input Class Initialized
+INFO - 2025-06-04 13:24:02 --> Language Class Initialized
+INFO - 2025-06-04 13:24:02 --> Loader Class Initialized
+INFO - 2025-06-04 13:24:02 --> Helper loaded: url_helper
+INFO - 2025-06-04 13:24:02 --> Helper loaded: pos_helper
+INFO - 2025-06-04 13:24:02 --> Database Driver Class Initialized
+DEBUG - 2025-06-04 13:24:02 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2025-06-04 13:24:02 --> Session: Class initialized using 'files' driver.
+INFO - 2025-06-04 13:24:02 --> Helper loaded: form_helper
+INFO - 2025-06-04 13:24:02 --> Form Validation Class Initialized
+INFO - 2025-06-04 13:24:02 --> Controller Class Initialized
+INFO - 2025-06-04 13:24:02 --> Model "User_model" initialized
+DEBUG - 2025-06-04 13:24:02 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2025-06-04 13:24:02 --> File loaded: C:\laragon\www\penjualan\application\views\template/header.php
+INFO - 2025-06-04 13:24:02 --> File loaded: C:\laragon\www\penjualan\application\views\template/navbar.php
+INFO - 2025-06-04 13:24:02 --> File loaded: C:\laragon\www\penjualan\application\views\template/sidebar.php
+INFO - 2025-06-04 13:24:02 --> File loaded: C:\laragon\www\penjualan\application\views\user/index.php
+INFO - 2025-06-04 13:24:02 --> File loaded: C:\laragon\www\penjualan\application\views\template/footer.php
+INFO - 2025-06-04 13:24:02 --> File loaded: C:\laragon\www\penjualan\application\views\template/main.php
+INFO - 2025-06-04 13:24:02 --> Final output sent to browser
+DEBUG - 2025-06-04 13:24:02 --> Total execution time: 0.0698
+INFO - 2025-06-04 13:24:18 --> Config Class Initialized
+INFO - 2025-06-04 13:24:18 --> Hooks Class Initialized
+DEBUG - 2025-06-04 13:24:18 --> UTF-8 Support Enabled
+INFO - 2025-06-04 13:24:18 --> Utf8 Class Initialized
+INFO - 2025-06-04 13:24:18 --> URI Class Initialized
+INFO - 2025-06-04 13:24:18 --> Router Class Initialized
+INFO - 2025-06-04 13:24:18 --> Output Class Initialized
+INFO - 2025-06-04 13:24:18 --> Security Class Initialized
+DEBUG - 2025-06-04 13:24:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-06-04 13:24:18 --> Input Class Initialized
+INFO - 2025-06-04 13:24:18 --> Language Class Initialized
+ERROR - 2025-06-04 13:24:18 --> 404 Page Not Found: Kategori/index
+INFO - 2025-06-04 13:24:20 --> Config Class Initialized
+INFO - 2025-06-04 13:24:20 --> Hooks Class Initialized
+DEBUG - 2025-06-04 13:24:20 --> UTF-8 Support Enabled
+INFO - 2025-06-04 13:24:20 --> Utf8 Class Initialized
+INFO - 2025-06-04 13:24:20 --> URI Class Initialized
+INFO - 2025-06-04 13:24:20 --> Router Class Initialized
+INFO - 2025-06-04 13:24:20 --> Output Class Initialized
+INFO - 2025-06-04 13:24:20 --> Security Class Initialized
+DEBUG - 2025-06-04 13:24:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-06-04 13:24:20 --> Input Class Initialized
+INFO - 2025-06-04 13:24:20 --> Language Class Initialized
+INFO - 2025-06-04 13:24:20 --> Loader Class Initialized
+INFO - 2025-06-04 13:24:20 --> Helper loaded: url_helper
+INFO - 2025-06-04 13:24:20 --> Helper loaded: pos_helper
+INFO - 2025-06-04 13:24:20 --> Database Driver Class Initialized
+DEBUG - 2025-06-04 13:24:20 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2025-06-04 13:24:20 --> Session: Class initialized using 'files' driver.
+INFO - 2025-06-04 13:24:20 --> Helper loaded: form_helper
+INFO - 2025-06-04 13:24:20 --> Form Validation Class Initialized
+INFO - 2025-06-04 13:24:20 --> Controller Class Initialized
+INFO - 2025-06-04 13:24:20 --> Model "User_model" initialized
+DEBUG - 2025-06-04 13:24:20 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2025-06-04 13:24:20 --> File loaded: C:\laragon\www\penjualan\application\views\template/header.php
+INFO - 2025-06-04 13:24:20 --> File loaded: C:\laragon\www\penjualan\application\views\template/navbar.php
+INFO - 2025-06-04 13:24:20 --> File loaded: C:\laragon\www\penjualan\application\views\template/sidebar.php
+INFO - 2025-06-04 13:24:20 --> File loaded: C:\laragon\www\penjualan\application\views\user/index.php
+INFO - 2025-06-04 13:24:20 --> File loaded: C:\laragon\www\penjualan\application\views\template/footer.php
+INFO - 2025-06-04 13:24:20 --> File loaded: C:\laragon\www\penjualan\application\views\template/main.php
+INFO - 2025-06-04 13:24:20 --> Final output sent to browser
+DEBUG - 2025-06-04 13:24:20 --> Total execution time: 0.0537
+INFO - 2025-06-04 13:51:44 --> Config Class Initialized
+INFO - 2025-06-04 13:51:44 --> Hooks Class Initialized
+DEBUG - 2025-06-04 13:51:44 --> UTF-8 Support Enabled
+INFO - 2025-06-04 13:51:44 --> Utf8 Class Initialized
+INFO - 2025-06-04 13:51:44 --> URI Class Initialized
+INFO - 2025-06-04 13:51:44 --> Router Class Initialized
+INFO - 2025-06-04 13:51:44 --> Output Class Initialized
+INFO - 2025-06-04 13:51:44 --> Security Class Initialized
+DEBUG - 2025-06-04 13:51:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-06-04 13:51:44 --> Input Class Initialized
+INFO - 2025-06-04 13:51:44 --> Language Class Initialized
+INFO - 2025-06-04 13:51:44 --> Loader Class Initialized
+INFO - 2025-06-04 13:51:44 --> Helper loaded: url_helper
+INFO - 2025-06-04 13:51:44 --> Helper loaded: pos_helper
+INFO - 2025-06-04 13:51:44 --> Database Driver Class Initialized
+DEBUG - 2025-06-04 13:51:44 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2025-06-04 13:51:44 --> Session: Class initialized using 'files' driver.
+INFO - 2025-06-04 13:51:44 --> Helper loaded: form_helper
+INFO - 2025-06-04 13:51:44 --> Form Validation Class Initialized
+INFO - 2025-06-04 13:51:44 --> Controller Class Initialized
+INFO - 2025-06-04 13:51:44 --> Model "User_model" initialized
+DEBUG - 2025-06-04 13:51:44 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2025-06-04 13:51:44 --> File loaded: C:\laragon\www\penjualan\application\views\template/header.php
+INFO - 2025-06-04 13:51:44 --> File loaded: C:\laragon\www\penjualan\application\views\template/navbar.php
+INFO - 2025-06-04 13:51:44 --> File loaded: C:\laragon\www\penjualan\application\views\template/sidebar.php
+INFO - 2025-06-04 13:51:44 --> File loaded: C:\laragon\www\penjualan\application\views\user/index.php
+INFO - 2025-06-04 13:51:44 --> File loaded: C:\laragon\www\penjualan\application\views\template/footer.php
+INFO - 2025-06-04 13:51:44 --> File loaded: C:\laragon\www\penjualan\application\views\template/main.php
+INFO - 2025-06-04 13:51:44 --> Final output sent to browser
+DEBUG - 2025-06-04 13:51:44 --> Total execution time: 0.0750
