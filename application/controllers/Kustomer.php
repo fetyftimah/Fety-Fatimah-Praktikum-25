@@ -1,22 +1,22 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-class Kategori extends CI_Controller {
+class Kustomer extends CI_Controller {
     
     public function __construct()
     {
         parent::__construct();
-        $this->load->model('Kategori_model');
+        $this->load->model('Kustomer_model');
         $this->load->library('form_validation');
     }
 
     public function index()
     {
         $data = array(
-            'title'   => 'View Data Kategori',
+            'title'   => 'View Data Kustomer',
             'userlog' => infoLogin(),
-            'kategori'=> $this->Kategori_model->getAll(),
-            'content' => 'kategori/index'
+            'kustomer'=> $this->Kustomer_model->getAll(),
+            'content' => 'kustomer/index'
         );
 
         $this->load->view('template/main', $data);
@@ -25,54 +25,53 @@ class Kategori extends CI_Controller {
     public function add()
     {
         $data = array(
-            'title'   => 'Tambah Data Kategori',
-            'content' => 'kategori/add_form'
+            'title'   => 'Tambah Data Kustomer',
+            'content' => 'kustomer/add_form'
         );
         $this->load->view('template/main', $data);
     }
 
     public function save()
     {
-        $this->Kategori_model->save();
+        $this->Kustomer_model->save();
         if($this->db->affected_rows() > 0){
-            $this->session->set_flashdata("success", "Data Kategori Berhasil Disimpan");
+            $this->session->set_flashdata("success", "Data Kustomer Berhasil Disimpan");
         }
-        redirect('kategori');
+        redirect('kustomer');
     }
 
     public function getedit($id)
     {
         $data = array(
-            'title' => 'Update Data Kategori',
-            'kategori' => $this->Kategori_model->getById($id),
-            'content' => 'kategori/edit_form'
+            'title' => 'Update Data Kustomer',
+            'kustomer' => $this->Kustomer_model->getById($id),
+            'content' => 'kustomer/edit_form'
         );
         $this->load->view('template/main', $data);
     }
 
     public function edit()
     {
-        $this->Kategori_model->editData();
+        $this->Kustomer_model->editData();
         if($this->db->affected_rows()>0){
-            $this->session->set_flashdata("success", "Data kategori Berhasil DiUpdate");
+            $this->session->set_flashdata("success", "Data Kustomer Berhasil DiUpdate");
         }
-        redirect('kategori');
+        redirect('kustomer');
     }
 
     function delete($id)
     {
-        $this->Kategori_model->delete($id);
-        redirect('kategori');
+        $this->Kustomer_model->delete($id);
+        redirect('kustomer');
     }
 
     public function laporan()
     {
         $data = array(
-            'title' => 'Tambah Laporan Data Kategori',
-            'content' => 'kategori/laporan'
+            'title' => 'Tambah Laporan Data Kustomer',
+            'content' => 'kustomer/laporan'
         );
         $this->load->view('template/main',$data);
     }
-
 
 }
